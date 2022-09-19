@@ -1,4 +1,7 @@
 # Acuña-Warning
 ---
 ## Referencias
-[BANDO]: https://www.bandobasicos.com.ar/
+[Bando]:https://bandobasicos.com.ar
+[Bando][Bando]
+
+
