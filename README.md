@@ -1,5 +1,4 @@
-# Ideas para nuestro marketplace
+# Acuña-Warning
 ---
 ## Referencias
-[mercado libre]: https://mercadolibre.com.ar
-[Mercado Libre][mercado libre]
+[BANDO]: https://www.bandobasicos.com.ar/
