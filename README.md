@@ -18,7 +18,17 @@ Adolescentes y jovenes entre 12 y 25 años de sexo masculino.
 + FredoKa
 + [IBM Plex Sans]:https://fonts.google.com
 [IBM Plex Sans][IBM Plex Sans]
+---
+### Paleta de Colores:
+#ffff00
+#ffff56
+#ffff81
+#090909
+#333233
+---
+### Logo:
 
+![Logo.jfif][imgl]
 
 
 
