@@ -36,7 +36,7 @@ Adolescentes y jovenes entre 12 y 25 años de sexo masculino.
 ---
 ### Logo:
 
-![Logo]:[D:\Datos de Usuario\Downloads]
+![Logo]:D:\Datos de Usuario\Downloads
 
 
 
