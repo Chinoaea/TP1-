@@ -20,6 +20,7 @@ Adolescentes y jovenes entre 12 y 25 años de sexo masculino.
 + [IBM Plex Sans]:https://fonts.google.com
 [IBM Plex Sans][IBM Plex Sans]
 
+----------------------------------------------------------------
 ### Paleta de Colores:
 #ffff00
 
