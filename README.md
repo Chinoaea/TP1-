@@ -1,6 +1,7 @@
 # Acuña-Warning
 ---
-## Temática del e-commerce: ***Venta de indumentaria masculina***.
+## Temática del e-commerce: 
+***Venta de indumentaria masculina***.
 
 Pagina de referencia para mi e-commerce:
 
@@ -36,7 +37,7 @@ Adolescentes y jovenes entre 12 y 25 años de sexo masculino.
 ---
 ### Logo:
 
-![Logo]:D:\Datos de Usuario\Downloads
+![Logo](Logo.PNG)
 
 
 
