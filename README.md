@@ -1,8 +1,9 @@
 # Acuña-Warning
 ---
 ## Temática del e-commerce: 
-+ Venta de indumentaria masculina.
+Venta de indumentaria masculina.
 + Pagina de referencia para mi e-commerce:
+
 [Bando]:https://bandobasicos.com.ar
 [Bando][Bando]
 ________________________________________________________________
@@ -16,6 +17,7 @@ Adolesentes y jovenes entre 12 y 25 años de sexo masculino.
 + Fredoka One 
 + FredoKa
 + IBM Plex Sans
+
 [Fuentes]:https://fonts.google.com
 [Fuentes][Fuentes]
 
