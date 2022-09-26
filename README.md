@@ -1,7 +1,7 @@
-# Acuña-Warning
+# Acuña-Warning :warning:
 ---
 ## Temática del e-commerce: 
-***Venta de indumentaria masculina*** :warning:
+***Venta de indumentaria masculina***.
 
 Pagina de referencia para mi e-commerce:
 
