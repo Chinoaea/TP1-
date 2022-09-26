@@ -11,16 +11,13 @@ ________________________________________________________________
 "WARNING" es una tienda de ropa masculina Estilo Urbana, ubicada en pleno centro de la Ciudad de Alta Gracia-Córdoba, desde Febrero del año 2020.
 ________________________________________________________________
 ### Público obejtivo: 
-Adolesentes y jovenes entre 12 y 25 años de sexo masculino. 
+Adolescentes y jovenes entre 12 y 25 años de sexo masculino. 
 * * * * * * *
 ### Tipografía principal:
 + Fredoka One 
 + FredoKa
-+ IBM Plex Sans
-
-[Fuentes]:https://fonts.google.com
-[Fuentes][Fuentes]
-
++ [IBM Plex Sans]:https://fonts.google.com
+[IBM Plex Sans][IBM Plex Sans]
 
 
 
